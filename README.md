@@ -11,6 +11,8 @@
 </div>
 <br>
 
+ ![snake animation](https://github.com/apollodaniel/apollodaniel/blob/output/github-contribution-grid-snake2.svg)
+
 #### Social links
 <a align="center" href="https://twitch.tv/devapollo_" target="_blank"><img align="center" height="30px" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white" target="_blank"></a>
 <a align="center" href="https://www.youtube.com/channel/UCF3AbWKzMLDQK3XUR1doiyw" target="_blank"><img align="center" height="30px" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"></a>
