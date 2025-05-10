@@ -11,7 +11,11 @@
 </div>
 <br>
 
- ![snake animation](https://github.com/apollodaniel/apollodaniel/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake.svg" />
+</picture>
 
 #### Social links
 <a align="center" href="https://twitch.tv/devapollo_" target="_blank"><img align="center" height="30px" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white" target="_blank"></a>
