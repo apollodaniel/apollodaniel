@@ -1,53 +1,86 @@
-## Apollo Daniel
-### Stats
- <div >
-   <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=apollodaniel&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/> <br>
+<div align="center">
 
-   <div width="100%" align="center">
-      <img height="184px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollodaniel&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
-      <img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=apollodaniel&theme=highcontrast&hide_border=false"/>
-   </div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Apollo%20Daniel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+```text
+$ whoami
+> generalist dev who tries everything — web, mobile, infra, and tooling.
+$ background
+> ex-mobile dev (Flutter / Android); focused now on Next.js, TypeScript, Supabase.
+$ stack --current
+> next.js · typescript · supabase
+$ stack --always
+> flutter · linux · neovim · next.js
+```
+
+<p align="center">
+  <a href="https://twitch.tv/devapollo_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCF3AbWKzMLDQK3XUR1doiyw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.gg/R7AywPuU95"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="mailto:developer.apollo.mail@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake.svg" />
-</picture>
+---
 
-#### Social links
-<a align="center" href="https://twitch.tv/devapollo_" target="_blank"><img align="center" height="30px" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white" target="_blank"></a>
-<a align="center" href="https://www.youtube.com/channel/UCF3AbWKzMLDQK3XUR1doiyw" target="_blank"><img align="center" height="30px" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"></a>
-<a align="center" href = "https://discord.gg/R7AywPuU95"><img align="center" height="30px" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" target="_blank"></a>
-<a align="center" href = "mailto:developer.apollo.mail@gmail.com"><img align="center" height="30px" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
-<div align="start">
-   <h4>Langs</h4>
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-  <img align="center" alt="asm" height="30" width="30" src="https://raw.githubusercontent.com/file-icons/icons/refs/heads/master/svg/NASM.svg">
+### Currently working with
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,react,tailwind,nodejs" /></a>
+</p>
+
+### Languages I speak fluently (to machines)
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,java,py,ts,js,dart" /></a>
+</p>
+
+### Mobile, frameworks & platforms
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,nextjs,nodejs" /></a>
+</p>
+
+### Data
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" /></a>
+</p>
+
+### Daily drivers
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim,vscode,linux,git,github,docker,bash" /></a>
+</p>
+
+---
+
+### GitHub at a glance
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=apollodaniel&show_icons=true&count_private=true&hide_border=true&title_color=8be9fd&icon_color=bd93f9&text_color=f8f8f2&bg_color=0d1117" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=apollodaniel&hide_border=true&background=0d1117&stroke=bd93f9&ring=8be9fd&fire=ff79c6&currStreakLabel=8be9fd&sideLabels=f8f8f2&currStreakNum=f8f8f2&dates=f8f8f2&sideNums=f8f8f2" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollodaniel&layout=compact&hide_border=true&title_color=8be9fd&text_color=f8f8f2&bg_color=0d1117&langs_count=10" />
+<img height="170" src="https://trophy.ryglcloud.net?username=apollodaniel&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" />
+
 </div>
 
-<div align="start">
-   <h4>Databases</h4>
-  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+### Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/apollodaniel/apollodaniel/output/github-snake.svg"/>
+  </picture>
 </div>
 
-<div align="start">
-   <h4>Misc</h4>
-  <img align="center" alt="neovim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg">
-  <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="tux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
-  <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div align="center">
+  <sub>“Talk is cheap. Show me the code.” — Linus Torvalds</sub>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=apollodaniel&label=Profile%20views&color=bd93f9&style=flat-square" />
 </div>
+<div align="center">
